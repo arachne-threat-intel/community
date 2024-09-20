@@ -8,7 +8,6 @@ Welcome to the Arachne Digital Community Repository! This repository is dedicate
 - [Community Guidelines](#community-guidelines)
 - [How to Contribute](#how-to-contribute)
 - [Issues and Project Tracking](#issues-and-project-tracking)
-- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 - [Contact](#contact)
 
